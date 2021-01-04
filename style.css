@@ -6,6 +6,7 @@ body {
 }
 section {
     height: 500px;
+    padding-bottom: 100px;
 }
 .name-highlight {
     color: orange;
@@ -31,4 +32,10 @@ section {
     background-image: linear-gradient(salmon, tomato);
     color: #ffffff;
     border-radius: 5px;
+    text-transform: uppercase;
+}
+.dream-area {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
